@@ -14,6 +14,7 @@ function NavBarHome() {
             
             <nav class="navbar navbar-expand-lg bg-secondary">
                 <div class="container-fluid">
+                <img className= "hfc" src="https://i.ibb.co/JRdF6kJ/SEnergy-Logo.jpg" alt="SEnergy-Logo"/>
                     <a class="navbar-brand yyyy">&copy; SEnergy</a>
                    
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
