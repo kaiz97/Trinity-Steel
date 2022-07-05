@@ -8,8 +8,9 @@ function HomePage() {
     return (
         <div>
             <NavBarHome />
-           <img src="Ts-logo.png"></img>
-           <div className="dd1">
+            <div className="dd1">
+           <img src="https://i.ibb.co/dJmtFd1/Ts-logo.png" alt="Ts-logo"/>
+           &nbsp; &nbsp; &nbsp;
                     <h2 className="hh1">TRINITY STEEL PRIVATE LIMITED</h2>
                  
             </div>
